@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 <msg>Hello from master branch</msg>
 =======
 <msg>Updated message from GitWork branch</msg>
 >>>>>>> GitWork
+=======
+<msg>Final merged message combining master and GitWork updates</msg>
+>>>>>>> 85d62165a1910d4d593adb59a0c1dea536ce9535
